@@ -1,4 +1,4 @@
-# Classification Gait [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUAI-CAU%2F2022_Summer_CV5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Diagnosis of gait disorder by Human pose estiamtion [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCUAI-CAU%2F2022_Summer_CV5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [Paper]() | [Poster]() | [Project]() | [Presentation]() | [Demo]()
 
@@ -10,9 +10,9 @@
 
 
 ## Our Team
-- TaeYun Kim (School of Computer Science & Engineering, Chung-Ang Univ.)
-- MinKi Kang (School of Computer Science & Engineering, Chung-Ang Univ.)
-- JuHo Lee (School of Computer Science & Engineering, Chung-Ang Univ.)
+- TaeYun Kim (💻 School of Computer Science & Engineering, Chung-Ang Univ.)
+- MinKi Kang (💻 School of Computer Science & Engineering, Chung-Ang Univ.)
+- JuHo Lee (💻 School of Computer Science & Engineering, Chung-Ang Univ.)
 
 
 ## Install
@@ -26,7 +26,7 @@ $ pip install -r requirements.txt
 ```
 This code was tested with `python 3.8.13`, `pycaret 1.9.0`, `mediapipe 0.8.10.1`  
 
-## How to Use?
+## How to Use
 
 **Please Check Gait_Classification_Demo**
 
