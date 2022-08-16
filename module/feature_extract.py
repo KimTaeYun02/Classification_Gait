@@ -401,6 +401,10 @@ def compute_angle_feature(dataframe = None, path = None, drop_na = True, data_ab
             
     if(data_abs == True):
         result = np.abs(result)
+    result_col = list(result.columns)
+    for i in result_col:
+        result[i] =  [360 + angle if angle < 0 else angle for angle in result[i]] 
+    
     
     if(save_path != None and save_file_name != None):
         if not os.path.isdir(save_path):
